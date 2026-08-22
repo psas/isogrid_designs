@@ -3,8 +3,9 @@
 The current standard module is an open-web design.
 
 ### Aluminum 6061-T6
+<pre>
 Module Design Parameters:  
-    Inner Diameter: 6.0625 in  
+Inner Diameter: 6.0625 in  
     Skin Thickness: 0.0 in (Open-Web)  
     Rib Depth: 0.07 in  
     Rib Width: 0.06 in  
@@ -19,8 +20,10 @@ Module Properties:
     Inradius: 0.271, hole diameter: 0.541  
     General Instability - 283.7 lbf/in   5528 lbf  
     Rib Cripling        - 521.9 lbf/in  10169 lbf  
+</pre>
 
 ### Nylon 12
+<pre>
 Module Design Parameters:  
     Inner Diameter: 6.0625 in  
     Skin Thickness: 0.055 in (Closed Web)  
@@ -32,3 +35,4 @@ Module Properties:
     General Instability - 267.9 lbf/in   5425 lbf  
     Skin Buckling       - 270.5 lbf/in   5477 lbf  
     Rib Cripling        - 273.4 lbf/in   5537 lbf  
+</pre>
